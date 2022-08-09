@@ -1,0 +1,44 @@
+/*
+index2.html
+*/
+body{
+    background-color:palegoldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+h1{
+    text-align: center;
+    border: solid;
+    margin: 5px;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bio{
+    font-style:oblique;
+    font-size: large;
+}
+.interests{
+    color: grey;
+}
+#div1{
+    color:brown;
+}
+#izzy{
+    position: relative;
+    right: 150px;
+}
+#NN{
+    position:relative;
+    left: 515px;
+    bottom: 300px;
+}
+#div2{
+    text-align: center;
+    border: solid;
+    margin: 5px;
+    padding: 10px;
+    color:brown;
+}

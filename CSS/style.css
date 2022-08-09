@@ -1,0 +1,24 @@
+ /*
+ index.html
+ */
+body{
+        background-color: palegoldenrod;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+h1{
+        text-align: center;
+        border: solid;
+        margin: 5px;
+        padding: 10px;
+    }
+h2{
+        text-align: center;
+        text-decoration: underline;
+    }
+.interests{
+         color: grey;
+}
+#div1{
+        position: relative;
+        color: brown;
+}
